@@ -1,5 +1,5 @@
 ### Hi, I'm Dwi Nugroho—a Frontend Developer
-Welcome to my profile. I'm web developer specializing in modern JavaScript. I build things with code, make digital products to improve how humans living their life.
+I'm web developer specializing in modern JavaScript. I build things with code, make digital products to improve how humans living their life.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=DwiNugroho&show_icons=true)
 
